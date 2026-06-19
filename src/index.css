@@ -74,6 +74,19 @@ a {
   padding: 0 0.5rem;
 }
 
+.header-subtitle {
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+@media (max-width: 600px) {
+  .header-subtitle {
+    display: none;
+  }
+}
+
+
 /* Flat UI Elements */
 .btn {
   display: inline-flex;
