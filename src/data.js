@@ -92,7 +92,7 @@ export const places = [
     lng: 8.9261,
     googleMapUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2851.7064283259976!2d8.9273582!3d44.4068537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12d3434000c027e7%3A0xb9eeb8ee17754a1f!2sAntica%20Friggitoria%20Carega!5e0!3m2!1sit!2sit!4v1718664188205!5m2!1sit!2sit",
     googleMapsLink: "https://www.google.com/maps/place/?q=place_id:ChIJ5ycAQOFD0xIRH0p1F-4rebg",
-    images: ["/images/antica-friggitoria-carega_1.jpg","/images/antica-friggitoria-carega_2.JPG","/images/antica-friggitoria-carega_3.jpg","/images/antica-friggitoria-carega_4.jpg"]
+    images: ["/images/antica-friggitoria-carega_1.jpg","/images/antica-friggitoria-carega_2.jpg","/images/antica-friggitoria-carega_3.jpg","/images/antica-friggitoria-carega_4.jpg"]
   },
   {
     id: "ristorante-ulivo",
@@ -105,7 +105,7 @@ export const places = [
     lng: 9.3456,
     googleMapUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2851.7064283259976!2d8.9273582!3d44.4068537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12d497f6ccdcceef%3A0x48480473d888bcce!2sRistorante%20L'Ulivo!5e0!3m2!1sit!2sit!4v1718664188206!5m2!1sit!2sit",
     googleMapsLink: "https://www.google.com/maps/place/?q=place_id:ChIJ-eNczPaX1BIRzryI2HMESHY",
-    images: ["/images/ristorante-ulivo_1.jpg","/images/ristorante-ulivo_2.jpg","/images/ristorante-ulivo_3.png","/images/ristorante-ulivo_4.jpg"]
+    images: ["/images/ristorante-ulivo_1.jpg","/images/ristorante-ulivo_2.jpg","/images/ristorante-ulivo_3.jpg","/images/ristorante-ulivo_4.jpg"]
   },
   {
     id: "il-bistrotto",
@@ -118,7 +118,7 @@ export const places = [
     lng: 9.0682,
     googleMapUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2851.7064283259976!2d8.9273582!3d44.4068537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12d35c4d2a92f84b%3A0xc331b10a45ed773d!2sIl%20Bistrotto!5e0!3m2!1sit!2sit!4v1718664188207!5m2!1sit!2sit",
     googleMapsLink: "https://www.google.com/maps/place/?q=place_id:ChIJS_iSKk1c0xIRPXfsRQqxMcM",
-    images: ["/images/il-bistrotto_1.jpg","/images/il-bistrotto_2.jpg","/images/il-bistrotto_3.png","/images/il-bistrotto_4.jpg"]
+    images: ["/images/il-bistrotto_1.jpg","/images/il-bistrotto_2.jpg","/images/il-bistrotto_3.jpg","/images/il-bistrotto_4.jpg"]
   },
   {
     id: "osteria-da-drin",
